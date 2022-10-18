@@ -1,0 +1,28 @@
+﻿@page "/add-subcategory"
+
+@inherits AddSubcategoryBase.AddSubcategoryBase
+
+<h3>Add Item to the Menu</h3>
+
+<div class="container" style="width:50%">
+    <div class="row g-3">
+        <div class="col-md-6">
+            <label class="form-label">Subcategory Name:</label>
+            <input type="text" name="subcategoryName" class="form-control" @bind=Subcategory.SubcategoryName />
+        </div>
+    </div>
+    <div class="row g-3">
+        <div class="col-md-6">
+            <label class="form-label">s
+                Subcategory Price:
+            </label>
+            <input type="text" name="subcategoryPrice" class="form-control" @bind=Subcategory.SubcategoryPrice />
+        </div>
+    </div>
+    <div class="row g-3">
+        <div class="col-md-6">
+            <button type="button" class="btn btn-primary" @onclick="() => SaveItem()">Add</button>
+        </div>
+    </div>
+
+</div>
