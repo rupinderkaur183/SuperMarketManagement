@@ -17,6 +17,7 @@ E:\Cambrian\SofEr\GrpProjectPractical\SuperMarketManagement\SuperMarketManagemen
 E:\Cambrian\SofEr\GrpProjectPractical\SuperMarketManagement\SuperMarketManagement\obj\Debug\netcoreapp3.1\SuperMarketManagement.MvcApplicationPartsAssemblyInfo.cache
 E:\Cambrian\SofEr\GrpProjectPractical\SuperMarketManagement\SuperMarketManagement\obj\Debug\netcoreapp3.1\SuperMarketManagement.RazorComponent.input.cache
 E:\Cambrian\SofEr\GrpProjectPractical\SuperMarketManagement\SuperMarketManagement\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+E:\Cambrian\SofEr\GrpProjectPractical\SuperMarketManagement\SuperMarketManagement\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Cart.razor.g.cs
 E:\Cambrian\SofEr\GrpProjectPractical\SuperMarketManagement\SuperMarketManagement\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
 E:\Cambrian\SofEr\GrpProjectPractical\SuperMarketManagement\SuperMarketManagement\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
 E:\Cambrian\SofEr\GrpProjectPractical\SuperMarketManagement\SuperMarketManagement\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
@@ -32,6 +33,7 @@ E:\Cambrian\SofEr\GrpProjectPractical\SuperMarketManagement\SuperMarketManagemen
 E:\Cambrian\SofEr\GrpProjectPractical\SuperMarketManagement\SuperMarketManagement\obj\Debug\netcoreapp3.1\SuperMarketManagement.TagHelpers.output.cache
 E:\Cambrian\SofEr\GrpProjectPractical\SuperMarketManagement\SuperMarketManagement\obj\Debug\netcoreapp3.1\SuperMarketManagement.RazorCoreGenerate.cache
 E:\Cambrian\SofEr\GrpProjectPractical\SuperMarketManagement\SuperMarketManagement\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+E:\Cambrian\SofEr\GrpProjectPractical\SuperMarketManagement\SuperMarketManagement\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.razor.g.cs
 E:\Cambrian\SofEr\GrpProjectPractical\SuperMarketManagement\SuperMarketManagement\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
 E:\Cambrian\SofEr\GrpProjectPractical\SuperMarketManagement\SuperMarketManagement\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
 E:\Cambrian\SofEr\GrpProjectPractical\SuperMarketManagement\SuperMarketManagement\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
