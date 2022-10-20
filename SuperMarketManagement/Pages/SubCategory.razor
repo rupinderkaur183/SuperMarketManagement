@@ -1,10 +1,29 @@
 ﻿@page "/subcategory"
+@inherits AddSubcategoryBase.AddSubcategoryBase
 @{ 
     var Pagetitle = "SubCategory";
 }
-<h2 class="text-center">SubCategory</h2>
 
+
+
+<h2 class="text-center">SubCategory</h2>
 <div class="container-fluid">
+    <div class="row">
+
+        @foreach (var Subcategory in getSubcategory())
+        {
+            <div class="col-md-3 text-center">
+               <a href="/subCategory-detail/@Subcategory.SubcategoryId"><img src="/images/@Subcategory.SubcategoryImage" style="width:50%" alt="@Subcategory.SubcategoryName" title="@Subcategory.SubcategoryName" /></a>
+                
+                <div class="SubCategory-name">@Subcategory.SubcategoryName</div>
+                <div class="price">@Subcategory.SubcategoryPrice</div>
+            </div>
+        }
+
+    </div>
+</div>
+
+@*<div class="container-fluid">
     <div class="row">
         <div class="col-md-3 text-center">
             <a href="/subcategory-detail"><img src="/images/Banana.jpg" style="width:50%" alt="Banana" /></a>
@@ -55,3 +74,4 @@
         </div>
     </div>
 </div>
+*@

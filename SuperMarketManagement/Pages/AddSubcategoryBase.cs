@@ -6,7 +6,7 @@ using SuperMarketManagement.Data;
 using SuperMarketManagement.Models;
 using Microsoft.AspNetCore.Components;
 
-namespace SuperMarketManagement.Pages
+namespace AddSubcategoryBase
 {
     public class AddSubcategoryBase : ComponentBase
     {
@@ -24,7 +24,7 @@ namespace SuperMarketManagement.Pages
             return base.OnInitializedAsync();
         }
 
-        public void SaveSubcategory()
+        public void saveSubcategory()
         {
             using (SuperMarketDAL dal = new SuperMarketDAL())
             {
@@ -32,7 +32,7 @@ namespace SuperMarketManagement.Pages
             }
         }
 
-        public List<Subcategory> GetSubcategory()
+        public List<Subcategory> getSubcategory()
         {
             using (SuperMarketDAL dal = new SuperMarketDAL())
             {
@@ -41,7 +41,7 @@ namespace SuperMarketManagement.Pages
             }
         }
 
-        public Subcategory GetSubcategoryByID(int id)
+        public Subcategory getSubcategoryByID(int id)
         {
             using (SuperMarketDAL dal = new SuperMarketDAL())
             {

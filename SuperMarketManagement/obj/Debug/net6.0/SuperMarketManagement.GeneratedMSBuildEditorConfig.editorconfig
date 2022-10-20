@@ -1,0 +1,76 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SuperMarketManagement
+build_property.RootNamespace = SuperMarketManagement
+build_property.ProjectDir = C:\Users\user\source\repos\supermarket2\SuperMarketManagement\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\user\source\repos\supermarket2\SuperMarketManagement
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/user/source/repos/supermarket2/SuperMarketManagement/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/supermarket2/SuperMarketManagement/Pages/AddSubcategory.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkU3ViY2F0ZWdvcnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/supermarket2/SuperMarketManagement/Pages/Cart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/supermarket2/SuperMarketManagement/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/supermarket2/SuperMarketManagement/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/supermarket2/SuperMarketManagement/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/supermarket2/SuperMarketManagement/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/supermarket2/SuperMarketManagement/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/supermarket2/SuperMarketManagement/Pages/SubCategory.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViQ2F0ZWdvcnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-9pn8d3zovb
+
+[C:/Users/user/source/repos/supermarket2/SuperMarketManagement/Pages/SubcategoryDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViY2F0ZWdvcnlEZXRhaWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-7tc4muueyb
+
+[C:/Users/user/source/repos/supermarket2/SuperMarketManagement/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-hsukzek4qw
+
+[C:/Users/user/source/repos/supermarket2/SuperMarketManagement/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-uem1s722yh
+
+[C:/Users/user/source/repos/supermarket2/SuperMarketManagement/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/supermarket2/SuperMarketManagement/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/supermarket2/SuperMarketManagement/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

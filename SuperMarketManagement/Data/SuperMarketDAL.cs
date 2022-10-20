@@ -16,7 +16,7 @@ namespace SuperMarketManagement.Data
 
         public void saveSubcategory(Subcategory subcategory)
         {
-            using (SuperMarketSystemContext ctx = new SuperMarketSystemContext())
+            using (cambrainsmms1Context ctx = new cambrainsmms1Context())
             {
                 ctx.Subcategory.Add(subcategory);
                 ctx.SaveChanges();
@@ -25,7 +25,7 @@ namespace SuperMarketManagement.Data
 
         public List<Subcategory> getSubcategory()
         {
-            using (SuperMarketSystemContext ctx = new SuperMarketSystemContext())
+            using (cambrainsmms1Context ctx = new cambrainsmms1Context())
             {
                 return ctx.Subcategory.ToList();
             }
@@ -33,9 +33,10 @@ namespace SuperMarketManagement.Data
 
         public Subcategory getSubcategoryByID(int id)
         {
-            using (SuperMarketSystemContext ctx = new SuperMarketSystemContext())
+
+            using (cambrainsmms1Context ctx = new cambrainsmms1Context())
             {
-                return ctx.Subcategory.Where(subcategory => subcategory.SubcategoryId == id).First();
+                return ctx.Subcategory.Where(Subcategory => Subcategory.SubcategoryId == id).First();
 
             }
 
